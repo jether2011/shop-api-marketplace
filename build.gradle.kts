@@ -7,7 +7,7 @@ plugins {
 }
 
 group = "com.marketplace.shop"
-version = "0.0.1-SNAPSHOT"
+version = "0.0.1"
 description = "Shop Api Marketplace Service"
 
 java {
